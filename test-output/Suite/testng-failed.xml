@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="EagarCrow(failed)">
+    <classes>
+      <class name="TestNGDemo.Class2">
+        <methods>
+          <include name="windowHandleOfclass2"/>
+        </methods>
+      </class> <!-- TestNGDemo.Class2 -->
+    </classes>
+  </test> <!-- EagarCrow(failed) -->
+</suite> <!-- Failed suite [Suite] -->
